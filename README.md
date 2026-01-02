@@ -4,7 +4,7 @@ Heyo! I'm bread.
 * Florel Stores @ Managing Director (https://florel.co.uk/)
 
 # Notable Milestones
-* Contributed for +13M visits experience.
+* Contributed for +13M visits experience @ Freshly Shopping.
 * Upgraded Almore infrastructure
 * Contributed for the bit of the ranking bot @ Bloxco Stores.
 
