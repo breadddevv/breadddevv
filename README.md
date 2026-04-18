@@ -5,4 +5,6 @@ i'm a software engineer
 
 i do stuff for the interwebs
 
+"this thing is still broken as hell"
+
 
