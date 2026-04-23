@@ -7,4 +7,7 @@ i do stuff for the interwebs
 
 "this thing is still broken as hell"
 
-
+## contact me
+<div align="center">
+  <a href="https://discord.com/users/90156252594927932"><img src="https://img.shields.io/badge/contact_me-bread_devv?style=flat-square&logo=discord&logoColor=white&color=5865F2"></img></a>
+</div>
