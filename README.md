@@ -10,4 +10,5 @@ i do stuff for the interwebs
 ## contact me
 <div align="center">
   <a href="https://discord.com/users/90156252594927932"><img src="https://img.shields.io/badge/contact_me-bread_devv?style=flat-square&logo=discord&logoColor=white&color=5865F2"></img></a>
+  <a href="mailto:tiagu.1789@gmail.com"><img src="https://img.shields.io/badge/mail_me-me?style=flat-square&logo=gmail&logoColor=black&color=ffbde9"></img></a>
 </div>
