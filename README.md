@@ -3,7 +3,7 @@ i'm a software engineer
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=breadddevv&theme=iceberg&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EB545400)](https://git.io/streak-stats)
 
-i do stuff for the interwebs
+i do stuff for the interwebs<br>
 "this thing is still broken as hell"
 
 ## contact me
